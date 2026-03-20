@@ -1,4 +1,4 @@
-##Hi there, I'm Ulises! 👋Physics Graduate @ UNAM   
+Hi there, I'm Ulises! 👋Physics Graduate @ UNAM   
 I am a quantitative researcher and data professional with over 4 years of experience. I specialize in turning manual, hours-long tasks into automated, minutes-long workflows. 
 Currently, I’m focused on bridging the gap between Data Science and Infrastructure through DevOps and MLOps.
 Current Focus 
