@@ -1,11 +1,11 @@
-Hi there, I'm Ulises! 👋Physics Graduate @ UNAM   
+# Hi there, I'm Ulises! 👋Physics Graduate @ UNAM   
 I am a quantitative researcher and data professional with over 4 years of experience. I specialize in turning manual, hours-long tasks into automated, minutes-long workflows. 
-Currently, I’m focused on bridging the gap between Data Science and Infrastructure through DevOps and MLOps.
-Current Focus 
-At Work: I'm a Search Analyst at Coppel , where I modularize Python tasks and manage large-scale data (40GB+) using .parquet.
-Learning: Deep diving into DevOps pipelines, advanced Machine Learning, and strengthening my foundations in algorithms and statistics.
-Tech StackLanguages: Python (Advanced) , SQL (Intermediate) , C++ (Intermediate) , and JavaScript.Cloud & Tools: AWS (S3, Lambda, IAM), Git, and Linux.Data & Automation: Power BI , Google Apps Script , and RPA.
-Let's Connect!
+- Currently, I’m focused on bridging the gap between Data Science and Infrastructure through DevOps and MLOps.
+### Current Focus 
+- At Work: I'm a Search Analyst at Coppel , where I modularize Python tasks and manage large-scale data (40GB+) using .parquet.
+- Learning: Deep diving into DevOps pipelines, advanced Machine Learning, and strengthening my foundations in algorithms and statistics.
+- Tech StackLanguages: Python (Advanced) , SQL (Intermediate) , C++ (Intermediate) , and JavaScript.Cloud & Tools: AWS (S3, Lambda, IAM), Git, and Linux.Data & Automation: Power BI , Google Apps Script , and RPA.
+### Let's Connect!
 Email: u.ramirez9899@gmail.com 
 Location: Estado de México 
 
